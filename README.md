@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @ohmsankar 
+👋 Hi, I’m @ohmsankar 
 
 
 
+
+
+- 👀 I’m interested in programming.
 <!---
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning grade IV
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
